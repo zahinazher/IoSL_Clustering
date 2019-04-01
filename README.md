@@ -6,4 +6,4 @@ Made by:
 Fabio Buso,
 Paul J E Velthuis,
 Ahmed T Tidjani,
-Zahin Azher
+Zahin Azher Rashid
